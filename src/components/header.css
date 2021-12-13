@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.imagem {
+  width: 40%;
+  margin-left: 12rem;
+  border-radius: 40%;
+  border: solid 3px chartreuse;
+}
